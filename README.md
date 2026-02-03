@@ -7,13 +7,21 @@ Os exercícios estão divididos em pastas por seções, cada uma com um conjunto
 text
 /
 ├── secao05-condicionais/
+
 ├── secao06-lacos/
+
 ├── secao07-vetores-matrizes/
+
 ├── secao08-funcoes/
+
 ├── secao13-arquivos/
+
 ├── secao16-classes/
+
 ├── secao17-poo/
+
 └── README.md
+
 📚 Conteúdo das Seções
 🔸 Seção 05 - Condicionais
 Comparação de números
